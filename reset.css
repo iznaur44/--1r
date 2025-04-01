@@ -1,11 +1,11 @@
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     .container {
         flex-direction: column;
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1200px) {
 
 
 
@@ -89,7 +89,7 @@ border-radius: 12px;
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
 .gallery-container {
    width: 100%;
  position: relative;
@@ -181,7 +181,7 @@ color: #F2BE22;
 color: #1A3E3E;
 cursor: pointer;
 }
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 .flex-container{
     display: block;
 }
@@ -313,7 +313,7 @@ display: none;
 }
 
 /* Показываем только на мобильных */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 .txt__buttonn {
 display: block;
 width: 90%;

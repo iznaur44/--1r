@@ -468,7 +468,7 @@ font-weight: 500;
   
   
   /* Адаптивность */
-  @media (max-width: 768px) {
+  @media (max-width: 1200px) {
     .footer-container {
       flex-direction: column;
       gap: 20px;

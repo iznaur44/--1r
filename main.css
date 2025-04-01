@@ -308,7 +308,7 @@ color: yellow;
         
 
     
-        @media (max-width: 1000px) {
+        @media (max-width: 1200px) {
             .second-gallery-wrapper {
                 position: relative;
                 overflow: hidden;
