@@ -104,6 +104,10 @@ nav ul li a:hover {
     background-color: #ff5252;
     scale: 0.9;
   }
+  details:hover{
+color: yellow;
+    
+  }
 .consult-btn:hover{
     background-color: #ff5252;
     scale: 0.9;
